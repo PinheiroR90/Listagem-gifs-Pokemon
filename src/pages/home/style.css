@@ -1,0 +1,16 @@
+.title{
+    font-size: 23px;
+}
+.my-text{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.my-p{
+    font-size: 15px;
+    font-weight: 300;
+}
+.my-p span{
+    font-size: 12px;
+    font-weight: 500;
+}
